@@ -1,4 +1,4 @@
-# AllLife-Bank
+# AllLife Bank Personal Loans Project
 
 Background and Context
 
@@ -42,7 +42,7 @@ Online: Do customers use internet banking facilities?
 
 CreditCard: Does the customer use a credit card issued by any other Bank (excluding All life Bank)?
 
-# AllLife-Bank-Data-Report
+# AllLife Bank Data Report
 
 Executive Summary
 
